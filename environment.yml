@@ -3,5 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - numpy=1.23.3
-  - tensorflow
   - keras=2.10.0
