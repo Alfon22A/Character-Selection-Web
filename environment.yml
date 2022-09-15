@@ -1,0 +1,10 @@
+name: character-selection
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pip:
+    - streamlit
+    - tensorflow
+    - keras
+prefix: E:\Programs\Anaconda3\envs\character-selection
