@@ -5,4 +5,4 @@ channels:
 dependencies:
   - pip
   - tensorflow
-  - keras
+  - keras==2.10.0
