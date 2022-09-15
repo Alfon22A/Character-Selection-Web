@@ -1,4 +1,6 @@
 name: Character-Selection
+channels:
+  - conda-forge
 dependencies:
   - numpy=1.23.3
   - tensorflow=2.10.0
