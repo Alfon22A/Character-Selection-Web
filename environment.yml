@@ -3,7 +3,5 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - numpy=1.23.3
-  - keras=2.10.0
   - pip
   - tensorflow
