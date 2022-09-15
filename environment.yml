@@ -1,10 +1,4 @@
-name: Character-Selection
-channels:
-  - conda-forge
-dependencies:
-  - python=3.9
-  - numpy
-  - pip
-  - pip:
-    - tensorflow-io-gcs-filesystem==0.27.0
-prefix: E:\Programs\Anaconda3\envs\Character-Selection
+numpy
+tensorflow
+keras
+streamlit
