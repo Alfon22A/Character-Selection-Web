@@ -1,7 +1,7 @@
 name: Character-Selection
 channels:
+  - defaults
   - conda-forge
 dependencies:
-  - streamlit
   - pip
   - tensorflow
