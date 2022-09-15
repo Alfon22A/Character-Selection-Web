@@ -5,7 +5,4 @@ dependencies:
   - python=3.9
   - numpy
   - pip
-  - pip:
-    - tensorflow
-    - keras
 prefix: E:\Programs\Anaconda3\envs\Character-Selection
