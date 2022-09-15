@@ -1,8 +1,7 @@
-name: character-selection
+name: Character-Selection
 channels:
   - defaults
   - conda-forge
-  dependencies:
+dependencies:
   - pip
   - tensorflow
-prefix: E:\Programs\Anaconda3\envs\character-selection
