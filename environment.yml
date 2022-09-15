@@ -1,6 +1,6 @@
 name: character-selection
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - numpy
   - pip:
