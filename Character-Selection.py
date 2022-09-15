@@ -13,8 +13,8 @@ def main ():
 	st.write("Alfonso Muñoz Alonso, 2022")
 	st.header("Want to know how the computer sees you?")
 	st.write("Disclaimer: this shows how the computer perceives you, the only one who can indentify yourself is you.")
-	model_age = load_model('Models/Age_NN3.hdf5')
-	model_gender = load_model('Models/Gender_NN3.hdf5')
+	model_age = load_model('Models/Age_NN.hdf5')
+	model_gender = load_model('Models/Gender_NN.hdf5')
 						   
 	img1 = st.file_uploader("Upload a pic!")
 	if img1:
