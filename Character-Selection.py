@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import tensorflow as tf
-from tensorflow.keras import load_model
 
 def main ():
 	
