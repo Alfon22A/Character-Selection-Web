@@ -12,7 +12,7 @@ def main ():
 	st.title("Character Selection")
 	st.write("Alfonso Muñoz Alonso, 2022")
 	st.header("Want to know how the computer sees you?")
-	st.write("Disclaimer: this shows how the computer perceives you, the only one who can indentify yourself is you.")
+	st.write("Disclaimer: this shows how the computer perceives you; you are the only one who can indentify yourself")
 	model_age = load_model('./Models/Age_NN.hdf5')
 	model_gender = load_model('./Models/Gender_NN.hdf5')
 						   
