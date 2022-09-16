@@ -83,4 +83,7 @@ def main ():
 			expander2.write("Age: {:.4}".format(age2))
 			expander2.write("Female: {:.2%}".format(female2))
 			expander2.write("Male: {:.2%}".format(male2))
+			
+	st.write("Try other apps!")
+	st.markdown("[Spot-me-songs](https://alfon22a-spot-me-songs-web-spot-me-songs-cyicg5.streamlitapp.com/)")
 main()
